@@ -1,0 +1,16 @@
+body {margin:auto; /*body is an element*/
+width: 1250px;
+margin-top: 50px;
+background-color: #ccc}
+
+.focus {/*focus is a class denoted by . */
+background-color: green;
+text-align: center
+}
+#testString {height:40px; /*testString is an id denoted by #*/
+background-color: blue;
+text-align: center;
+color:coral;
+font-size: 150%;
+padding-top: 20px
+}
